@@ -3,4 +3,4 @@ nginx
 starrocks/dev-env-ubuntu:latest
 #支持指定架构
 #--platform=linux/arm64 
-starrocks/dev-env-ubuntu:latest
+starrocks/dev-env-ubuntu:3.1.13
