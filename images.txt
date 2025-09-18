@@ -1,6 +1,6 @@
 nginx
 #支持私库
-starrocks/dev-env-ubuntu:2.5-latest
+starrocks/dev-env-ubuntu:2.5.12
 
 #支持指定架构
---platform=linux/arm64 starrocks/dev-env-ubuntu:2.5-latest
+--platform=linux/arm64 starrocks/dev-env-ubuntu:2.5.12
